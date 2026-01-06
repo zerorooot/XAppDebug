@@ -26,7 +26,7 @@ jobs:
 
       - uses: gradle/gradle-build-action@v2
         with:
-          gradle-version: '7.3'
+          gradle-version: '7.5'
           arguments: assembleRelease
 
 
